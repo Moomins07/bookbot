@@ -1,2 +1,3 @@
 # bookbot
-A basic bookbot script built using Python during the Boot.dev curriculum.
+
+BookBot is my first project!
